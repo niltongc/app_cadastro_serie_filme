@@ -1,0 +1,15 @@
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/bin/Debug/net6.0/cadastro_tentativa2
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/bin/Debug/net6.0/cadastro_tentativa2.deps.json
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/bin/Debug/net6.0/cadastro_tentativa2.runtimeconfig.json
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/bin/Debug/net6.0/cadastro_tentativa2.dll
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/bin/Debug/net6.0/cadastro_tentativa2.pdb
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/Debug/net6.0/cadastro_tentativa2.csproj.AssemblyReference.cache
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/Debug/net6.0/cadastro_tentativa2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/Debug/net6.0/cadastro_tentativa2.AssemblyInfoInputs.cache
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/Debug/net6.0/cadastro_tentativa2.AssemblyInfo.cs
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/Debug/net6.0/cadastro_tentativa2.csproj.CoreCompileInputs.cache
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/Debug/net6.0/cadastro_tentativa2.dll
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/Debug/net6.0/refint/cadastro_tentativa2.dll
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/Debug/net6.0/cadastro_tentativa2.pdb
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/Debug/net6.0/cadastro_tentativa2.genruntimeconfig.cache
+/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/Debug/net6.0/ref/cadastro_tentativa2.dll

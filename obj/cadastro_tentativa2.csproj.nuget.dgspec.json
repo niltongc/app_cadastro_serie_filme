@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/cadastro_tentativa2.csproj": {}
+  },
+  "projects": {
+    "/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/cadastro_tentativa2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/cadastro_tentativa2.csproj",
+        "projectName": "cadastro_tentativa2",
+        "projectPath": "/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/cadastro_tentativa2.csproj",
+        "packagesPath": "/home/nilton/.nuget/packages/",
+        "outputPath": "/home/nilton/Documentos/programing/DIO/Unimed-bh/dotnet/desafio/cadastro_Series/cadastro_tentativa2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nilton/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
